@@ -1,0 +1,12 @@
+/* .container{
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    display: flex;
+} */
+.img-fluid{
+    align-content: flex-end;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
